@@ -385,7 +385,7 @@ models:
         description: The title of the section
       - type: string
         name: title2
-        label: Title2
+        label: Title2333
         description: The title of the sectionaaaa
   hero_section:
     type: object
